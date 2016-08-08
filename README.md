@@ -1,6 +1,6 @@
-## Your Name
+## Lukasz Grychowski
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am born again coder with passion for learning and creating. For most of my professional life I have been selling maps in the largest and oldest map shop in the world. Now, I am thrilled to start anew as a web developer driven by hunger to learn more and more. I am looking for an entry level developer job with a focus on continual learning, making code beautiful, and TDD.
 
 ## Skills
 
@@ -42,7 +42,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Company Name** (start_date to end_date)
+*Your job title*
+**Company Name** (start_date to end_date)
+*Your job title*
