@@ -1,12 +1,12 @@
 ## Lukasz Grychowski
 
-I am born again coder with passion for learning and creating. For most of my professional life I have been selling maps in the largest and oldest map shop in the world. Now, I am thrilled to start anew as a web developer driven by hunger to learn more and more. I am looking for an entry level developer job with a focus on continual learning, making code beautiful, and TDD.
+I am a born again coder with passion for learning and creating. For most of my professional life I sold maps in the largest and oldest map shop in the world. Now, I am thrilled to start anew as a web developer driven by hunger to learn more and more. I am looking for an entry level developer job with a focus on continual learning, making code beautiful, and TDD.
 
 ## Skills
 
-#### This Skill
+#### Fast Learner
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
 
 - Experience
 - Achievements
