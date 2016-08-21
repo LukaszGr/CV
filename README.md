@@ -40,6 +40,7 @@ I gained curiosity and hungry passion for code. Graduated as an independent lear
 |[**MakersBnB**](https://github.com/yasgreen93/makers_bnb.git)|  |Ruby, Sinatra, JavaScript, jQuery, Postgres|RSpec, Capybara|
 |[**Chasing Shadows**](https://github.com/yasgreen93/chitter-challenge)|  |Ruby, Sinatra, jQuery|RSpec, Capybara|
 
+
 #### University of Kielce, Poland (1998-2002)
 
 B.A. in British and American Studies
