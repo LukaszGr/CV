@@ -28,9 +28,9 @@ I’m a team player. I work hard and thrive on new challenges. I appreciate bein
 
 I gained curiosity and hungry passion for code. Graduated as an independent learner and problem-solver.
 
-Methodologies: OOP, TDD, SOLID, MVC, DDD
-Languages: Ruby, Rails, Javascript, Node.js, HTML, CSS
-Testing: Rspec, Jasmine, Capybara, Zombie
+- Methodologies: OOP, TDD, SOLID, MVC, DDD
+- Languages: Ruby, Rails, Javascript, Node.js, HTML, CSS
+- Testing: Rspec, Jasmine, Capybara, Zombie
 
 **A few projects include:**
 
