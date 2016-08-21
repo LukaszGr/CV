@@ -14,8 +14,6 @@ Passion for expanding my knowledge is what defines me. I learn fast and I love i
 
 #### What I’m like to work with
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
 I’m a team player. I work hard and thrive on new challenges. I appreciate being mentored by those who know more than I do. No job is too small - every detail gets my full attention. I’m patient, persevering and personable.
 
 ## <a name="skills">Skills</a>
