@@ -1,48 +1,53 @@
 ## Lukasz Grychowski
 
-I am a born again coder with passion for learning and creating. For most of my professional life I sold maps in the largest and oldest map shop in the world. Now, I am thrilled to start anew as a web developer driven by hunger to learn more and more. I am looking for an entry level developer job with a focus on continual learning, making code beautiful, and TDD.
+After several years working as a teacher in Poland and then several more selling maps in the largest and oldest map shop in the world in London I went back to school - Makers Academy - and graduated as a born again coder.
 
-## Skills
+I quickly realised that the more I learn, the more I want to learn - so I’m looking for a junior developer job that will allow me to  continue growing my skills, making code beautiful, and TDD.
 
-#### Fast Learner
+## About me
 
+#### What I’m passionate about
 
+Passion for expanding my knowledge is what defines me. I learn fast and I love it - whether it’s new languages (be that JavaScript or Spanish), picking up the tricks of the cartography and book trade or binging on everything popular science  - it’s all about broadening my horizons.
 
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
+#### What I’m like to work with
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I’m a team player. I work hard and thrive on new challenges. I appreciate being mentored by those who know more than I do. No job is too small - every detail gets my full attention. I’m patient, persevering and personable.
+
+## Skills
+
+Agile
+Pair Programming
+TDD
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 2016 - August 2016)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+I gained curiosity and hungry passion for code. Graduated as an independent learner and problem-solver.
 
-#### Your University / College (start_date to end_date)
+Methodologies: OOP, TDD, SOLID, MVC, DDD
+Languages: Ruby, Rails, Javascript, Node.js, HTML, CSS
+Testing: Rspec, Jasmine, Capybara, Zombie
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### University of Kielce, Poland (1998-2002)
 
-#### Any other qualifications
+B.A. in British and American Studies
 
 ## Experience
 
-**Company Name** (start_date to end_date)
-*Your job title*
-**Company Name** (start_date to end_date)
-*Your job title*
+October 2006 - May 2016
+Fulfilment Service Manager, Stanfords Ltd.
+
+September 2001 - August 2006
+English Language Teacher, O.K. Centre of Foreign Languages (Kielce, Poland)
+
+September 2001
+Interpreter for BCD Modelling, International Military Fair (Kielce, Poland)
+
+## Interests
+
+Gaming, sci-fi, popular sciences, watching sports (hand ball and volleyball), travel, reading, films.
+
