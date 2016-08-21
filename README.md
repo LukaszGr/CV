@@ -10,7 +10,7 @@ I quickly realised that the more I learn, the more I want to learn - so I’m lo
 
 #### What I’m passionate about
 
-Passion for expanding my knowledge is what defines me. I learn fast and I love it - whether it’s new languages (be that JavaScript or Spanish), picking up the tricks of the cartography and book trade or binging on everything popular science  - it’s all about broadening my horizons.
+Passion for expanding my knowledge is what defines me. I learn fast and I love it - whether it’s new languages (be that JavaScript or Spanish), picking up the tricks of cartography and book trade or binging on everything popular science  - it’s all about broadening my horizons.
 
 #### What I’m like to work with
 
