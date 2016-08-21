@@ -4,7 +4,7 @@ After several years working as a teacher in Poland and then several more selling
 
 I quickly realised that the more I learn, the more I want to learn - so I’m looking for a junior developer job that will allow me to  continue growing my skills, making code beautiful, and TDD.
 
-## About me
+##
 
 #### What I’m passionate about
 
@@ -18,9 +18,9 @@ I’m a team player. I work hard and thrive on new challenges. I appreciate bein
 
 ## Skills
 
-Agile
-Pair Programming
-TDD
+- Agile
+- Pair Programming
+- TDD
 
 ## Education
 
