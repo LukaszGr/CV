@@ -34,6 +34,14 @@ Methodologies: OOP, TDD, SOLID, MVC, DDD
 Languages: Ruby, Rails, Javascript, Node.js, HTML, CSS
 Testing: Rspec, Jasmine, Capybara, Zombie
 
+**A few projects include:**
+
+| Name | Description | Technologies | Testing |
+|------|-------------|--------------|---------|
+|[**Slinks**](https://github.com/yasgreen93/slinks.git)| Allows you store links posted in Slack to later access at your leisure | AngularJS, NodeJS, Express, Postgres, Sequelize | Karma, Protractor|
+|[**MakersBnB**](https://github.com/yasgreen93/makers_bnb.git)|A clone of AirBnb which allows you to view, request and book places to stay.|Ruby, Sinatra, JavaScript, jQuery, Postgres|RSpec, Capybara|
+|[**Chitter**](https://github.com/yasgreen93/chitter-challenge)|A clone of Twitter which allows you to sign up/in and leave peeps!|Ruby, Sinatra, jQuery|RSpec, Capybara|
+
 #### University of Kielce, Poland (1998-2002)
 
 B.A. in British and American Studies
