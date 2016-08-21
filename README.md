@@ -1,5 +1,7 @@
 ## Lukasz Grychowski
 
+[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests)
+
 After several years working as a teacher in Poland and then several more selling maps in the largest and oldest map shop in the world in London I went back to school - Makers Academy - and graduated as a born again coder.
 
 I quickly realised that the more I learn, the more I want to learn - so I’m looking for a junior developer job that will allow me to  continue growing my skills, making code beautiful, and TDD.
