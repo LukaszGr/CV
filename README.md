@@ -18,13 +18,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 I’m a team player. I work hard and thrive on new challenges. I appreciate being mentored by those who know more than I do. No job is too small - every detail gets my full attention. I’m patient, persevering and personable.
 
-## Skills
+## <a name="skills">Skills</a>
 
 - Agile
 - Pair Programming
 - TDD
 
-## Education
+## <a name="Education">Education</a>
 
 #### Makers Academy (May 2016 - August 2016)
 
@@ -38,7 +38,7 @@ Testing: Rspec, Jasmine, Capybara, Zombie
 
 B.A. in British and American Studies
 
-## Experience
+## <a name="Experience">Experience</a>
 
 October 2006 - May 2016
 Fulfilment Service Manager, Stanfords Ltd.
@@ -49,7 +49,7 @@ English Language Teacher, O.K. Centre of Foreign Languages (Kielce, Poland)
 September 2001
 Interpreter for BCD Modelling, International Military Fair (Kielce, Poland)
 
-## Interests
+## <a name="Interests">Interests</a>
 
 Gaming, sci-fi, popular sciences, watching sports (hand ball and volleyball), travel, reading, films.
 
