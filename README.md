@@ -38,7 +38,7 @@ I gained curiosity and hungry passion for code. Graduated as an independent lear
 |------|-------------|--------------|---------|
 |[**Pear**](https://github.com/yasgreen93/slinks.git)|  | AngularJS, NodeJS, Express, Postgres, Sequelize | Karma, Protractor|
 |[**MakersBnB**](https://github.com/yasgreen93/makers_bnb.git)|  |Ruby, Sinatra, JavaScript, jQuery, Postgres|RSpec, Capybara|
-|[**Chasing Shadows**](https://github.com/yasgreen93/chitter-challenge)| Final project at Makers Academy: a mobile game utilising Google Maps JS API, a custom built API server and a native app built in JavaScript and packaged in Cordova |Cordova + JS/HTML/SASS (app), Ruby on Rails + PostgreSQL (API server)|RSpec, Capybara|
+|[**Chasing Shadows**](https://github.com/LukaszGr/chasing_shadows) [**API Server**](https://github.com/LukaszGr/chasing_shadows_api_server)| Final project at Makers Academy: a geolocation mobile game written in JavaScript and deployed to iOS in Cordova, a custom built API server and a native app built in JavaScript and packaged in Cordova |Cordova + JS/HTML/SASS (app), Ruby on Rails + PostgreSQL (API server)|RSpec, Capybara|
 
 
 #### University of Kielce, Poland (1998-2002)
