@@ -18,9 +18,19 @@ I’m a team player. I work hard and thrive on new challenges. I appreciate bein
 
 ## <a name="skills">Skills</a>
 
-- Agile
-- Pair Programming
-- TDD
+#### Coding
+- Language: Javascript, Ruby, HTML, CSS, jQuery
+- Framework and Libraries: Sinatra, Rails, Express, jQuery, Node.js.
+- Databases: PostgreSQL
+- ORM: Active Records, DataMapper
+- Testing: ​RSpec, Jasmine, Capybara, Mocha, Zombie
+- Templating Engines: EJS, ERB
+- Version control: Git
+
+#### Pair Programming
+
+
+#### TDD
 
 ## <a name="Education">Education</a>
 
