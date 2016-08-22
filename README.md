@@ -46,7 +46,7 @@ I gained curiosity and hungry passion for code. Graduated as an independent lear
 
 | Name | Description | Technologies | Testing |
 |------|-------------|--------------|---------|
-|[**Pear**]()| A Ruby on Rails app. Designed to help programmers find their perfect pair-programming partner. | Ruby on Rail, JavaScript | Rspec, Capybara, Jasmine|
+|[**Pear**](https://github.com/LukaszGr/pear)| A Ruby on Rails app. Designed to help programmers find their perfect pair-programming partner. | Ruby on Rail, JavaScript | Rspec, Capybara, Jasmine|
 |[**MakersBnB**](https://github.com/LukaszGr/MakersBnB)| A clone of Air BnB |Ruby, Sinatra, JavaScript |RSpec, Capybara|
 |[**Chasing Shadows**](https://github.com/LukaszGr/chasing_shadows) [**API Server**](https://github.com/LukaszGr/chasing_shadows_api_server)| Final project at Makers Academy: a geolocation mobile game written in JavaScript and deployed to iOS in Cordova, a custom built API server |Cordova + JS/HTML/SASS (app), Ruby on Rails + PostgreSQL (API server)|RSpec, Capybara|
 
@@ -68,5 +68,5 @@ Interpreter for BCD Modelling, International Military Fair (Kielce, Poland)
 
 ## <a name="Interests">Interests</a>
 
-Gaming, sci-fi, popular sciences, watching sports (handball and volleyball), travel, reading, films.
+Gaming, sci-fi, popular sciences, sports (watching handball and playing volleyball)
 
